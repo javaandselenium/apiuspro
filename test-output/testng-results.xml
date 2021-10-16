@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-13T06:50:56 IST" name="Default suite" finished-at="2021-10-13T06:51:04 IST" duration-ms="7902">
+  <suite started-at="2021-10-16T07:00:24 IST" name="Default suite" finished-at="2021-10-16T07:00:33 IST" duration-ms="8490">
     <groups>
     </groups>
-    <test started-at="2021-10-13T06:50:56 IST" name="Default test" finished-at="2021-10-13T06:51:04 IST" duration-ms="7902">
-      <class name="parameters.Queryparam">
-        <test-method signature="demo()[pri:0, instance:parameters.Queryparam@32910148]" started-at="2021-10-13T06:50:56 IST" name="demo" finished-at="2021-10-13T06:51:04 IST" duration-ms="7793" status="PASS">
+    <test started-at="2021-10-16T07:00:24 IST" name="Default test" finished-at="2021-10-16T07:00:33 IST" duration-ms="8490">
+      <class name="gitHubApplication.PostOperation2">
+        <test-method signature="post()[pri:0, instance:gitHubApplication.PostOperation2@32910148]" started-at="2021-10-16T07:00:24 IST" name="post" finished-at="2021-10-16T07:00:33 IST" duration-ms="8356" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- parameters.Queryparam -->
+        </test-method> <!-- post -->
+      </class> <!-- gitHubApplication.PostOperation2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
