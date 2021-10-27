@@ -12,8 +12,8 @@ public class PostOperation {
 	@Test
 	public void post() {
    JSONObject jobj=new JSONObject();
-   jobj.put("id", 350);
-   jobj.put("author","Ganesha");
+   jobj.put("id", 3500);
+   jobj.put("author","Ganeshappa");
 		
 		
 		given()
